@@ -6,7 +6,7 @@
 
 I enjoy building backend infrastructure and developer tools, with software engineering experience in deployment monitoring, observability, and event-driven automation.
 
-[Email](mailto:samuelfisher@berkeley.edu) · [Repositories](https://github.com/sammy03f?tab=repositories) · [Website]([https://www.samuel-fisher.com/)
+[Email](mailto:samuelfisher@berkeley.edu) · [Website]([https://www.samuel-fisher.com/)
 
 
 </div>

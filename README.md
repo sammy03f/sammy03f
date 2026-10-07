@@ -41,7 +41,7 @@ My software engineering experience includes:
 
 ### Beyond work & school
 
-I'm into **Music Production and HiFi Audio**, **running**, **tennis**, and **biking**. I also enjoy cooking dishes from different cuisines, collecting art, and growing and propagating plants. AutoDJ is where my interests in music, math, and software meet.
+I'm into **Music Production and HiFi Audio**, **running**, **soccer**, **ping-pong**, and **biking**. I also enjoy cooking dishes from different cuisines, collecting art, and growing and propagating plants. AutoDJ is where my interests in music, math, and software meet.
 
 ---
 
